@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi"
+      ],
+      "responses": [
+        "Hello!",
+        "Hi"
+      ]
+    },
+    {
+      "tag": "raj",
+      "patterns": [
+        "hii"
+      ],
+      "responses": [
+        "hello raj"
+      ]
+    }
+  ]
+}
